@@ -1,0 +1,6 @@
+"Hello",["Why hello there","Hello","Howdy","Hey","Hi"]
+"Why hello there",["Hello","Howdy","Hey","Hi","Why hello there"]
+"Hi",["Hello","Howdy","Hey","Hi","Why hello there"]
+"Howdy",["Hello","Hi","Hey","Why hello there","Howdy"]
+"Hey",["Hello","Hi","Hey","Why hello there","Howdy"]
+"Bye",["Goodbye","See ya","Later"]
